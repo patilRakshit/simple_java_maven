@@ -6,5 +6,6 @@ public class App
     {
         System.out.println( "Welcome to the kingdom of jenkins!!" );
         System.out.println( "Hello everyone from jenkins.. simple project" );
+        Hello.disp();
     }
 }
